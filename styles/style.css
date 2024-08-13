@@ -260,6 +260,7 @@ section {
 /* choose section style */
 .choose-content-container {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .first-row-card {
